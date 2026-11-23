@@ -1,0 +1,9 @@
+2026-11-23 08:15:01 INFO Server started
+2026-11-23 08:16:22 INFO User login: admin
+2026-11-23 08:18:45 WARNING Disk usage at 85%
+2026-11-23 08:20:10 ERROR Database connection failed
+2026-11-23 08:21:00 INFO Retrying connection
+2026-11-23 08:21:05 ERROR Timeout while reading table
+2026-11-23 08:25:12 WARNING High memory usage
+2026-11-23 08:30:00 INFO Backup completed
+    
