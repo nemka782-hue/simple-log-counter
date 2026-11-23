@@ -4,7 +4,7 @@ def analyze_log(filename):
     error_count = 0
     total_lines = 0
 
-        try:
+    try:
         with open(filename, "r", encoding="utf-8") as file:
             for line in file:
                 total_lines += 1
